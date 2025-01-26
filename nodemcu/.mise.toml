@@ -1,5 +1,6 @@
 [tools]
 "ubi:arduino/arduino-cli" = "latest"
+"ubi:espressif/esptool" = "latest"
 
 [vars]
 chip = "esp8266"
