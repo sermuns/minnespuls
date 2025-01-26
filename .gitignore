@@ -1,0 +1,5 @@
+mosquitto/data/
+mosquitto/config/pwfile
+
+**/*.elf
+**/*.bin
